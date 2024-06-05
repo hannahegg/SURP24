@@ -1,2 +1,2 @@
 # SURP24
-Audio files for SURP
+This is a collection of the sonified data audio files that I created from Red Giant stars. 
